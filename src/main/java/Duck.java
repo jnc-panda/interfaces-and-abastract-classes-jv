@@ -1,4 +1,2 @@
-package PACKAGE_NAME;
-
-public class Duck {
+public class Duck extends Bird implements Swimmable {
 }

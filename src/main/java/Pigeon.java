@@ -1,4 +1,2 @@
-package PACKAGE_NAME;
-
-public class Pigeon {
+public class Pigeon extends Bird {
 }

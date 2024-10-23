@@ -2,7 +2,7 @@ public class Aeroplane extends Vehicle implements Flyable {
 
     @Override
     void move() {
-        System.out.println("Car is driving.");
+        System.out.println("Plane is flying");
     }
 
     @Override
