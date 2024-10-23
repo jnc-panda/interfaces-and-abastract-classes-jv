@@ -1,4 +1,2 @@
-package PACKAGE_NAME;
-
-public class Bird {
+public abstract class Bird extends Animal{
 }
